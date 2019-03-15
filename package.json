@@ -1,7 +1,7 @@
 {
   "name": "project_pollinate",
   "version": "1.0.0",
-  "description": "website for Project Pollinate",
+  "description": "Website for Project Pollinate",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/ryanlsmith4/project_pollinate/issues"
   },
-  "homepage": "https://github.com/ryanlsmith4/project_pollinate#readme"
+  "homepage": "https://github.com/ryanlsmith4/project_pollinate#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "node": "^11.11.0",
+    "nodemon": "^1.18.10"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
 }
