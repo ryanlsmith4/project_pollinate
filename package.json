@@ -1,0 +1,19 @@
+{
+  "name": "project_pollinate",
+  "version": "1.0.0",
+  "description": "website for Project Pollinate",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanlsmith4/project_pollinate.git"
+  },
+  "author": "Ryan Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanlsmith4/project_pollinate/issues"
+  },
+  "homepage": "https://github.com/ryanlsmith4/project_pollinate#readme"
+}
